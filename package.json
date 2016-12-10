@@ -34,7 +34,7 @@
         "url": "https://github.com/wareck/node-merged-pool.git"
     },
     "dependencies": {
-        "unomp-multi-hashing": "git://github.com/moffff/node-multi-hashing.git",
+        "unomp-multi-hashing": "git://github.com/ocminer/node-multi-hashing-xzc.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
